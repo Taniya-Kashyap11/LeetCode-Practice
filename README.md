@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

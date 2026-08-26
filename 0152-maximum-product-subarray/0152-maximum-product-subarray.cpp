@@ -2,15 +2,15 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int ans=INT_MIN;
-        int pre=1;
-        int suffix=1;
+        int product_from_start=1;
+        int product_from_end=1;
         for(int i=0;i<nums.size();i++)
         {
-            if(pre==0) pre=1;
-            if(suffix==0) suffix=1;
-            pre*=nums[i];
-            suffix*=nums[nums.size()-i-1];
-             ans = max(ans, max(pre, suffix));
+            if(product_from_start==0) product_from_start=1;
+            if(product_from_end==0) product_from_end=1;
+            product_from_start*=nums[i];
+            product_from_end*=nums[nums.size()-i-1];
+             ans = max(ans, max(product_from_start,product_from_end));
         }
         return ans;
     }

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2104-sum-of-subarray-ranges](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |

@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
 ## Game Theory
 |  |
 | ------- |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |

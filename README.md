@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0735-asteroid-collision](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2104-sum-of-subarray-ranges](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3731-find-missing-elements) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -226,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion

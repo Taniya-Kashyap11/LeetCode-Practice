@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |

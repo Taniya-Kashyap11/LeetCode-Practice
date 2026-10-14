@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
 ## Linked List
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |

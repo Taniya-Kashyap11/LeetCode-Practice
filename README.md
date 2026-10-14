@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0342-power-of-four) |

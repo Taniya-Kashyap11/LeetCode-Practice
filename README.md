@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

@@ -6,27 +6,24 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             if(i>0 && nums[i]==nums[i-1]) continue;
-            int j=i+1;
-            int k=nums.size()-1;
-            while(j<k)
-            {
-                  int sum=nums[i]+nums[j]+nums[k];
-                  if(sum>0)
-                  {
-                    k--;
-                  }else if(sum<0)
-                  {
-                    j++;
-                  }else{
-                    vector<int> temp={nums[i],nums[j],nums[k]};
-                    ans.push_back(temp);
-                    j++;
-                    k--;
-                    while(j<k && nums[j]==nums[j-1]) j++;
-                    while(j<k && nums[k]==nums[k+1]) k--;
-                  }
+            int st=i+1;
+            int end=nums.size()-1;
+            while(st<end){
+                int sum=nums[i]+nums[st]+nums[end];
+                if(sum==0){
+                    ans.push_back({nums[i],nums[st],nums[end]});
+                st++;
+                end--;
+                while(st<end && nums[st]==nums[st-1]) st++;
+                while(st<end && nums[end]==nums[end+1])end--;
+                }
+                if(sum>0){
+                    end--;
+
+                }else{if(sum<0)
+                    st++;
+                }
             }
-         
         }
         return ans;
     }

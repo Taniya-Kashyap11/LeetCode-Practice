@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Linked List
 |  |
 | ------- |
